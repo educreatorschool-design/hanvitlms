@@ -1,0 +1,5 @@
+{
+  "name": "Hanbit LMS",
+  "description": "한빛문화예술교육원 AI 기반 학습 관리 시스템 (LMS). AI 강의계획서 생성, 교안 제작, 자동 채점 기능을 제공합니다.",
+  "requestFramePermissions": []
+}
